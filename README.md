@@ -1,6 +1,6 @@
-# 📊 Delinquency and Credit Risk Dashboard
+# 📊 Commercial insight Dashboard
 
-**Delinquency and Credit Risk Analysis**
+**Customer Relationship Management & Sales Analytics**
 
 ---
 
