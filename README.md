@@ -5,7 +5,7 @@
 ---
 
 ## ℹ️ Project Description
-Application developed in **Streamlit** that allows analyzing customer delinquency, predicting default risk, and optimizing accounts receivable management through *machine learning* models and interactive visualizations.
+Advanced **Streamlit** application that transforms raw sales data into actionable commercial intelligence. Provides real-time customer segmentation, sales performance analytics, and automated sales strategies through *interactive dashboards* and predictive insights.
 
 ---
 
