@@ -9,65 +9,68 @@ Advanced **Streamlit** application that transforms raw sales data into actionabl
 
 ---
 
-## ⚠️ Problem
-Companies face high financial risks due to delinquency and lack of predictive tools to manage credit risk.
+## ⚠️ Business Challenge
+Companies struggle with customer retention, sales team optimization, and data-driven decision making due to fragmented customer data and lack of real-time analytics
 
-## 💡 Solution
-Predictive dashboard that combines descriptive analysis, segmentation, and predictions to prioritize collection efforts and make preventive decisions.
+## 💡 Commercial Solution
+Unified dashboard that integrates customer data, sales performance, and automated segmentation to drive revenue growth and customer loyalty.
 
 ---
 
 ## 🛠️ Technologies Used
 - Python
-- Pandas
-- Numpy
-- Scikit-learn
 - Streamlit
-- Plotly
-- Google Sheets
-- Excel
+- Pandas Plotly
+- Google Sheets API
+- st_aggrid
+- Data Analytics
+- Customer Segmentation
 
 ---
 
-## ✅ Benefits
-- Early identification of customers with default risk  
-- Real-time KPIs on portfolio and delinquency  
-- Delinquency probability prediction with **Random Forest**  
-- Customer segmentation with **K-Means Clustering**  
-- Credit risk simulator based on amount, term, and history scenarios  
-- Automatic credit limit recommendations  
+## ✅ Key Features
+- **Customer 360° View:** Complete customer profiles with purchase history and behavior patterns
+- **Automated Segmentation:** Real-time classification into Active, Declining, and Inactive customers  
+- **Sales Team Analytics:** Performance tracking by vendor/zone with actionable insights
+- **Product Intelligence:** Top/bottom product analysis and cross-selling opportunities
+- **Alert System:** Automated alerts for at-risk customers requiring immediate attention
+- **Sales Script Generator:** AI-powered conversation guides tailored to customer segments
 
 ---
 
 ## 🖼️ Dashboard Gallery  
 
-### 📊 Executive Summary
+### 📊 Commercial Analytics
 ![Executive Summary - Main View](images/executive-summary.png)  
-*Dashboard overview with main KPIs*
+*Executive summary with key commercial metrics and trends*
 
 ### 🔍 Delinquency Analysis
 ![Delinquency Analysis - Breakdown](images/delinquency-analysis.png)  
-*Portfolio breakdown by days past due*
+*Automated customer classification and segment analysis*
 
 ### 🧠 Risk Prediction
 ![Risk Prediction - Model](images/risk-prediction.png)  
-*Default probability prediction model*
+*Detailed customer analysis with purchase patterns and recommendations*
 
 ### 👤 Customer Profile
 ![Customer Profile - Analysis](images/customer-profile.png)  
-*Detailed analysis by customer profile*
+*Customer-specific product performance and opportunity analysise*
 
 ### 🧩 Customer Segmentation
 ![Customer Segmentation - Groups](images/customer-segmentation.png)  
-*Customer clustering by similar characteristics*
+*Comparative analysis of sales team performance by key metrics*
 
 ### 🧮 Customer Simulator
 ![Customer Simulator - Interface](images/customer-simulator.png)  
-*Credit risk simulation interface*
+*Geographic sales distribution and territory optimization*
 
 ### 🎯 Collection Goals & Compliance
 ![Collection Goals - Tracking](images/collection-goals.png)  
-*Collection performance tracking*
+*Traffic-light system for customer prioritization and visit planning*
+
+### 🎯 Collection Goals & Compliance
+![Collection Goals - Tracking](images/collection-goals.png)  
+*Automated generation of visit lists and action plans*
 
 ---
 
