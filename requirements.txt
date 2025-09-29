@@ -4,4 +4,4 @@ plotly>=5.13.0
 numpy>=1.21.0
 requests>=2.28.0
 openpyxl>=3.0.0
-st-aggrid==0.3.4
+streamlit-aggrid>=0.3.0
