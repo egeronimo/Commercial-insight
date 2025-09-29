@@ -45,7 +45,7 @@ Unified dashboard that integrates customer data, sales performance, and automate
 *Executive summary with key commercial metrics and trends*
 
 ### 🔍 Delinquency Analysis
-![Delinquency Analysis - Breakdown](images/delinquency-analysis.png)  
+![Delinquency Analysis - Breakdown](images/KPI Overview Dashboard.jpg)  
 *Automated customer classification and segment analysis*
 
 ### 🧠 Risk Prediction
