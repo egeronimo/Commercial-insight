@@ -4,5 +4,4 @@ plotly
 numpy
 requests
 openpyxl
-xlrd
 st-aggrid
